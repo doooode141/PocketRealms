@@ -1,0 +1,1 @@
+For a build without installing Gradle locally, see BUILD_ON_GITHUB.txt in the outer ZIP folder. The workflow is at .github/workflows/build.yml and runs on push to main or manually via workflow_dispatch.
